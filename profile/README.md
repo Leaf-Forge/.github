@@ -2,8 +2,6 @@
 
 Leaf Forge es un estudio de desarrollo de software enfocado en la creación de soluciones tecnológicas modernas, mantenibles y centradas en las personas.
 
----
-
 ## 🎯 Qué hacemos
 
 Desarrollamos software orientado a distintos dominios:
@@ -16,15 +14,11 @@ Desarrollamos software orientado a distintos dominios:
 
 Nos enfocamos tanto en la calidad técnica como en la experiencia del usuario final.
 
----
-
 ## 💡 Nuestra visión
 
 Crear software confiable y humano, que acompañe el crecimiento de los proyectos y se adapte a necesidades reales.
 
 Creemos que un buen sistema no solo debe funcionar hoy, sino también poder evolucionar mañana sin volverse inmanejable.
-
----
 
 ## 🛠️ Enfoque técnico
 
@@ -37,8 +31,6 @@ En Leaf Forge adoptamos principios modernos de desarrollo:
 
 Trabajamos con arquitecturas por capas, principios SOLID, Clean Architecture y DDD, aplicados de forma pragmática y orientada al producto.
 
----
-
 ## 🔄 Metodología
 
 Utilizamos un enfoque ágil adaptado a equipos pequeños:
@@ -49,7 +41,5 @@ Utilizamos un enfoque ágil adaptado a equipos pequeños:
 - Comunicación constante
 
 La metodología es una herramienta, no una restricción.
-
----
 
 *Construyendo software con propósito* 🌿
